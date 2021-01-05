@@ -1,8 +1,8 @@
 class demo1
 {
-public static void  main (string args [])
+public static void  main (String args [])
 { 
-	system.out.println("java demo class 1 ");
+      System.out.println("java demo class 1 ");
 
 }
 
