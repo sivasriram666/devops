@@ -1,0 +1,6 @@
+ignore all class files
+*.class
+gitignore
+.gitignore
+temp
+.ignore
